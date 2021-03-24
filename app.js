@@ -8,7 +8,7 @@ const resultsDiv = document.getElementById('results')
 
 // set event listeners to update state and DOM
 button.addEventListener('click', () => {
-    alert('Welcome to the ice cream quiz!');
+    alert('Ice Cream Quiz, are you ready?');
 
     const wantsToTakeQuiz = confirm ('Do you want to take the quiz?');
 
